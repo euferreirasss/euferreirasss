@@ -42,16 +42,14 @@ WordPress e Elementor.
 
 ## 💼 O que estou procurando
 
-Estou à procura da minha **primeira oportunidade profissional em Front-End**, 
-incluindo:
+Estou à procura da minha **primeira oportunidade profissional em Front-End**, incluindo:
 
 - Front-End Júnior
 - Estágio em Desenvolvimento Web
 - Web Developer Júnior
 - WordPress Developer Júnior
 
-Tenho interesse em aprender, trabalhar em equipa e evoluir através 
-de projetos reais.
+Tenho interesse em aprender, trabalhar em equipa e evoluir através de projetos reais.
 
 ---
 
@@ -67,9 +65,9 @@ de projetos reais.
 
 Meu primeiro projeto desenvolvido com HTML e CSS.
 
-🔗 [Ver projeto](https://euferreirasss.github.io/portfolio/)
+🔗 **[Ver projeto](https://euferreirasss.github.io/portfolio/)**
 
-🔗 [Ver código no GitHub](https://github.com/euferreirasss/portfolio)
+🔗 **[Ver código no GitHub](https://github.com/euferreirasss/portfolio)**
 
 ---
 
@@ -79,9 +77,9 @@ Meu primeiro projeto desenvolvido com HTML e CSS.
 
 📧 **Email:** luaf.s2019@gmail.com
 
-💼 **LinkedIn:** [Luana Ferreira](https://www.linkedin.com/in/luana-ferreira-b75b03227/)
+💼 **[LinkedIn](https://www.linkedin.com/in/luana-ferreira-b75b03227/)**
 
-🐙 **GitHub:** [@euferreirasss](https://github.com/euferreirasss)
+🐙 **[GitHub](https://github.com/euferreirasss)**
 
 ---
 
