@@ -73,8 +73,6 @@ Meu primeiro projeto desenvolvido com HTML e CSS.
 
 ## 📫 Contacto
 
-📍 Quinta do Conde — Portugal
-
 📧 **Email:** luaf.s2019@gmail.com
 
 💼 **[LinkedIn](https://www.linkedin.com/in/luana-ferreira-b75b03227/)**
