@@ -59,18 +59,6 @@ Tenho interesse em aprender, trabalhar em equipa e evoluir através de projetos 
 
 ---
 
-## 📂 Projetos
-
-### 💜 Portfólio Pessoal
-
-Meu primeiro projeto desenvolvido com HTML e CSS.
-
-🔗 **[Ver projeto](https://euferreirasss.github.io/portfolio/)**
-
-🔗 **[Ver código no GitHub](https://github.com/euferreirasss/portfolio)**
-
----
-
 ## 📫 Contacto
 
 📧 **Email:** luaf.s2019@gmail.com
