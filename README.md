@@ -2,15 +2,6 @@
 
 ### 💻 Desenvolvedora Web em formação | Front-End Júnior
 
-Estou a construir a minha carreira na área de **Desenvolvimento Web**, 
-com foco em Front-End.
-
-Atualmente estou a estudar **Engenharia Front-End na EBAC**, 
-aprofundando os meus conhecimentos em HTML, CSS e JavaScript.
-
-Também tenho formação em **UX/UI** e conhecimentos em 
-WordPress e Elementor.
-
 ---
 
 ## 🚀 Tecnologias
@@ -26,32 +17,6 @@ WordPress e Elementor.
 
 </p>
 
----
-
-## 📚 Atualmente estudando
-
-- HTML5
-- CSS3
-- JavaScript
-- Git e GitHub
-- Desenvolvimento Web
-- Responsividade
-- Boas práticas de Front-End
-
----
-
-## 💼 O que estou procurando
-
-Estou à procura da minha **primeira oportunidade profissional em Front-End**, incluindo:
-
-- Front-End Júnior
-- Estágio em Desenvolvimento Web
-- Web Developer Júnior
-- WordPress Developer Júnior
-
-Tenho interesse em aprender, trabalhar em equipa e evoluir através de projetos reais.
-
----
 
 ## 🌐 Meu Portfólio
 
