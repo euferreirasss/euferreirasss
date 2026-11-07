@@ -1,6 +1,5 @@
 # 👋 Olá! Eu sou a Luana Ferreira
 
-### 💻 Desenvolvedora Web em formação | Front-End Júnior
 
 ---
 
